@@ -7,7 +7,7 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import WebDeveloper from 'randywiratama';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Randy Wiratama';
@@ -23,6 +23,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
-Credit: [Randy Wiratama](https://github.com/RandyWiratamaa)
+Credit: [RandyWiratama](https://github.com/RandyWiratamaa)
 
 Last Edited on: 15/06/2022
