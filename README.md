@@ -12,7 +12,7 @@ import WebDeveloper from 'randywiratama';
 class Bio extends WebDeveloper {
   name     = 'Randy Wiratama';
   title    = 'Backend Engineer';
-  company  = 'PT Efektifpro | Remote';
+  company  = 'PT Efektifpro | Onsite';
   location = 'Jakarta, Indonesia';
 }
 
