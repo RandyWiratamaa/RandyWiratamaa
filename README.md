@@ -21,6 +21,12 @@ class Skills extends WebDeveloper {
   databases  = ['MySQL'];
   frameworks = ['Laravel', 'Codeigniter', 'JQuery'];
 }
+
+class website extends WebDeveloper {
+  linktree  = https://linktr.ee/randywiratama
+  aboutMe   = https://bit.ly/RandyWiratama
+  portfolio = https://bit.ly/Portfolio-Randy
+}
 ```
 ----
 Credit: [RandyWiratama](https://github.com/RandyWiratamaa)
