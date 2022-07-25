@@ -23,9 +23,9 @@ class Skills extends WebDeveloper {
 }
 
 class website extends WebDeveloper {
-  linktree  = https://linktr.ee/randywiratama;
-  aboutMe   = https://bit.ly/RandyWiratama;
-  portfolio = https://bit.ly/Portfolio-Randy;
+  linktree  = 'https://linktr.ee/randywiratama';
+  aboutMe   = 'https://bit.ly/RandyWiratama';
+  portfolio = 'https://bit.ly/Portfolio-Randy';
 }
 ```
 ----
