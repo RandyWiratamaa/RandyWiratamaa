@@ -17,7 +17,7 @@ class Bio extends WebDeveloper {
 }
 
 class Skills extends WebDeveloper {
-  languages  = ['JavaScript', 'PHP'];
+  languages  = ['JavaScript', 'PHP', 'Go'];
   databases  = ['MySQL'];
   frameworks = ['Laravel', 'Codeigniter', 'JQuery'];
 }
